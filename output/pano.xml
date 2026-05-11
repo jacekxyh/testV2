@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="7.1.12" apprev="21036" hassounds="0" id="node1">
+  <input levelbias="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3000" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="3000">
+    <level predecode="0" preload="0" height="3000" width="3000"/>
+    <level predecode="0" preload="0" height="1500" width="1500"/>
+    <level predecode="0" preload="0" height="750" width="750"/>
+    <level predecode="1" preload="1" height="375" width="375"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="2">
+    <start projection="4" pan="0" tilt="0" fov="100"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fovstereographic="330" pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+  </view>
+  <userdata latitude="52.387141" customnodeid="" longitude="20.527902" tags="DJI_002" copyright="" info="" nodeid="node1" source="" author="" datetime="10.05.2026 19:50" description="" comment="" title="default" altitude="113.76" heading="0"/>
+  <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+    <label wordwrap="1" enabled="1" bordercolor="0x000000" border="1" background="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" width="180" textalpha="1"/>
+    <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomout="0" enabled="1" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" zoomafteroutfov="40" zoomfov="40"/>
+  <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control invertwheel="0" sensitivity="8" contextfullscreen="1" contextvr="1" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" invertcontrol="1"/>
+  <projectuserdata author="" description="" comment="" title="" tags="" copyright=""/>
+</panorama>
